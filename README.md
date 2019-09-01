@@ -47,3 +47,5 @@ C语言考研整理</br></br>
 10.1 结构体、共用体和枚举数据类型
 10.2 结构数组的定义及其应用
 10.3 文件</br>
+## 对你有用的的话关注 star下我 🙏谢谢
+![GitHub followers](https://img.shields.io/github/followers/vunited?style=for-the-badge)
